@@ -91,7 +91,6 @@ btn_new.bind("<Button-1>", new_verb)
 window.mainloop()
 
 
-# In[ ]:
 
 
 
